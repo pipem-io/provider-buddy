@@ -1,0 +1,6 @@
+image: docker.pipem.io/provider-buddy
+version: VERSION
+
+replicas: 1
+
+provider: buddy
